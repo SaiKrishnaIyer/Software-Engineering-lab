@@ -27,5 +27,3 @@ with open('input.txt', 'r') as file:
 
         # Display the result for each set of inputs
         print(f"For t = {t}, H = {H}, and w = {w}, the predicted weather is: {weather_condition}")
-
-this is a change
